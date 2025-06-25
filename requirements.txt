@@ -1,0 +1,10 @@
+numpy
+pandas
+scikit-learn # Remove specific version constraint to get latest compatible
+matplotlib
+imbalanced-learn
+tensorflow
+keras
+# pandas-ml # Removed
+# enum34 # Removed (was a pandas-ml dependency)
+# Cython # Optional, can be removed if not strictly needed by other packages

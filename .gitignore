@@ -1,0 +1,14 @@
+# IDE-specific files
+.idea/
+
+# Ignore the large dataset file
+data/creditcard.csv
+
+# Ignore virtual environment folder
+fraud_env/
+
+# Ignore any __pycache__ folders
+__pycache__/
+
+# Ignore .DS_Store on macOS
+.DS_Store
